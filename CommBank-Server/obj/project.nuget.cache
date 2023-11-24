@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A8u83CDps1UywdF/z/mkFI+f4OwfANP3Lxz/sASCClbechetInPNSvKZqSiXgkeVj68AWn7MPpG82Un9C5l/0w==",
+  "dgSpecHash": "amNM4l3r1Pe+jTQr/eZHTJt8d1HMqZT6qSzIxLzT00TOqbC6rknWQQi93wIIpR8SQKHgrFpmVb4N/7eLEP5mmw==",
   "success": true,
   "projectFilePath": "E:\\cba_local_repo\\commbank-server\\CommBank-Server\\CommBank.csproj",
   "expectedPackageFiles": [
@@ -28,11 +28,7 @@
     "C:\\Users\\ccloi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\ccloi\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\ccloi\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\ccloi\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
-    "C:\\Users\\ccloi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\ccloi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\ccloi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\ccloi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\ccloi\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": [
     {
